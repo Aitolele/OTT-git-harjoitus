@@ -4,6 +4,6 @@
 void hello()
 {
 	std::cout << "Hello, World!" << std::endl;
-	std::cout << "Hei Maailma!" << std::endl;
+	std::cout << "Hej världen!" << std::endl;
 }
 
